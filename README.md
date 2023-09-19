@@ -7,4 +7,4 @@ Deze repository bevat een library voor het maken van argumentatieschema's in het
 ![image](https://user-images.githubusercontent.com/20358521/169661344-df5b35a3-82b1-4a29-8791-544ddeb28f97.png)
 
 
-In [this tutorial](https://desk.draw.io/support/solutions/articles/16000067790-how-to-create-and-use-custom-libraries) you can see how to import a library into Drawio.
+In [this tutorial](https://www.drawio.com/blog/public-custom-libraries) you can see how to import a library into Drawio.
